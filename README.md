@@ -1,4 +1,1 @@
-Sophomore in High School
-Roblox Developer
-Started coding in 2013 and joined roblox in 2014.
-This is my only github account, all others are not mine
+[![qfob's GitHub stats](https://github-readme-stats.vercel.app/api?username=qfoxb)](https://github.com/anuraghazra/github-readme-stats)
