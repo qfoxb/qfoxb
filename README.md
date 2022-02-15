@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqfoxb%2Fqfoxb&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="qfoxb" /> </p>
 
-<p align="left"> <a href="https://twitter.com/qfoxb1" target="blank"><img src="https://img.shields.io/twitter/follow/qfoxbRBLX?style=plastic" alt="qfoxb1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/qfoxb1" target="blank"><img src="https://img.shields.io/twitter/follow/qfoxb1?style=plastic" alt="qfoxb1" /></a> </p>
 
 - 🔭 I’m currently working on [GearDB](https://github.com/StarLandRBLX/GearDB)
 
