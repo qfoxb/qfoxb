@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [GearDB](https://github.com/StarLandRBLX/GearDB)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🌟 I’m also working on [StarLand](https://playstar.land)
 
 - 👀 I maintain [uAssets for AdBlock Plus](https://github.com/qfoxb/uAssets-for-abp)
 
-- 💬 Ask me about **Roblox Lua**
+- 💻 Check out my [Website](https://qfoxb.playstar.land)
 
 - 📫 Reach me via **Twitter DMs**
 
