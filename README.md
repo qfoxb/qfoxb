@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm qfoxb<img src="https://github.com/qfoxb.png" style="width:48px;height:48px;"/></h1> 
+<h1 align="center">Hi! I'm qfoxb<img src="https://github.com/qfoxb.png" style="width:32px;height:32px;"/></h1> 
 <h3 align="center">I write a lot of different code here on GitHub</h3>
 
 <p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqfoxb%2Fqfoxb&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="qfoxb" /> </p>
@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning C# and node.js
 
-- 🌟 I’m also working on [StarLand](https://playstar.land)
+- 🌟 Developer and Owner for [StarLand](https://playstar.land)
+
+- 🤖 Maintainer for [tf2bd-lists](https://github.com/qfoxb/tf2bd-lists)
 
 - 💻 Check out my [Website](https://qfoxb.playstar.land)
 
