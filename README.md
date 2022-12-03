@@ -7,8 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qfoxb&layout=compact&theme=dark)
 <p align="left">
   
-- 🔧 I’m currently working on [Rbx2Source](https://github.com/LockpickInteractive/Rbx2Source)
-
 - 🔐 Owner of [Lockpick Interactive](https://github.com/LockpickInteractive)
 
 - 🤖 Maintainer for [Rbx2Source](https://github.com/LockpickInteractive/Rbx2Source)
